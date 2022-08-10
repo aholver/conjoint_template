@@ -1,0 +1,23 @@
+﻿attribute,level,level_numerical,image
+type,Official takes bribes,type1,corruption.jpg
+type,Official takes kickbacks ,type2,corruption.jpg
+type,Official steals public resources,type3,corruption.jpg
+type,Official gives corrupt favors to family members,type4,corruption.jpg
+type,Official uses public resources to benefit own firm ,type5,corruption.jpg
+sector,Healthcare,sector1,sector1.jpg
+sector,Education,sector2,sector2.jpg
+sector,Law enforcement,sector3,sector3.jpg
+sector,Courts,sector4,sector4.jpg
+sector,Parliament,sector5,sector5.jpg
+sector,Tax authority ,sector6,sector6.jpg
+official_rank,Low-level official,official_rank1,official_rank1.jpg
+official_rank,High-level official,official_rank2,official_rank2.jpg
+size_corrupt,Small amount of money ,size_corrupt1,size_corrupt1.jpg
+size_corrupt,Large amount of money,size_corrupt2,size_corrupt2.jpg
+official_use,To obtain money for personal use,official_use1,official_use1.jpg
+official_use,To obtain money for political candidates or parties ,official_use2,official_use2.jpg
+act_alone,Keeps all corrupt funds,act_alone1,act_alone1.jpg
+act_alone,Shares corrupt funds with officials of same rank,act_alone2,act_alone2.jpg
+act_alone,Shares corrupt funds with higher ranking official,act_alone3,act_alone3.jpg
+official_gender,Male,official_gender1,official_gender1.jpg
+official_gender,Female,official_gender2,official_gender2.jpg
