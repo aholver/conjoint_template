@@ -1,0 +1,15 @@
+﻿attribute,level,level_numerical
+arrested_off,"Yes, about 20 high-level officials",arrested_off1
+arrested_off,"Yes, about 400 low-level officials",arrested_off2
+arrested_bus,No,arrested_bus1
+arrested_bus,"Yes, about 20 wealthy businesspeople",arrested_bus2
+raise,Yes,raise1
+raise,No,raise2
+audits,Yes,audits1
+audits,No,audits2
+trainings,Yes,trainings1
+trainings,No,trainings2
+protections_report,Yes,protections_report1
+protections_report,No,protections_report2
+mandatory_report,Yes,mandatory_report1
+mandatory_report,No,mandatory_report2
