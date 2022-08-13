@@ -1,0 +1,21 @@
+﻿attribute,level,level_numerical
+arrested_low,"Yes, arrested many",arrested_low1
+arrested_low,"No, did not arrest many",arrested_low2
+arrested_high,"Yes, arrested many",arrested_high1
+arrested_high,"No, did not arrest many",arrested_high2
+arrested_bus,"Yes, arrested many",arrested_bus1
+arrested_bus,"No, did not arrest many",arrested_bus2
+raise,"Yes, raised salaries",raise1
+raise,"No, did not raise salaries",raise2
+audits,"Yes, audited",audits1
+audits,"No, did not audit",audits2
+trainings,"Yes, did trainings",trainings1
+trainings,"No, did not do trainings",trainings2
+protections_report,"Yes, improved protections",protections_report1
+protections_report,"No, did not improve protections",protections_report2
+mandatory_report,"Yes, enforced reporting",mandatory_report1
+mandatory_report,"No, did not enforce reporting",mandatory_report2
+cs_exam,"Yes, implemented exam",cs_exam1
+cs_exam,"No, did not implement exam",cs_exam2
+gov_purchases,"Yes, did mandate online purchases",gov_purchases1
+gov_purchases,"No, did not mandate online purchases",gov_purchases2
