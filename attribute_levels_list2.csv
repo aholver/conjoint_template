@@ -1,21 +1,21 @@
-﻿attribute,level,level_numerical,image
-arrested_low,"Yes, arrested many",arrested_low1,arrested_low1.jpg
-arrested_low,"No, did not arrest many",arrested_low2,arrested_low2.jpg
-arrested_high,"Yes, arrested many",arrested_high1,arrested_high1.jpg
-arrested_high,"No, did not arrest many",arrested_high2,arrested_high2.jpg
-arrested_bus,"Yes, arrested many",arrested_bus1,arrested_bus1.jpg
-arrested_bus,"No, did not arrest many",arrested_bus2,arrested_bus2.jpg
-raise,"Yes, raised salaries",raise1,raise1.jpg
-raise,"No, did not raise salaries",raise2,raise2.jpg
-audits,"Yes, audited",audits1,audits1.jpg
-audits,"No, did not audit",audits2,audits2.jpg
-trainings,"Yes, did trainings",trainings1,trainings1.jpg
-trainings,"No, did not do trainings",trainings2,trainings2.jpg
-protections_report,"Yes, improved protections",protections_report1,protections_report1.jpg
-protections_report,"No, did not improve protections",protections_report2,protections_report2.jpg
-mandatory_report,"Yes, enforced reporting",mandatory_report1,mandatory_report1.jpg
-mandatory_report,"No, did not enforce reporting",mandatory_report2,mandatory_report2.jpg
-cs_exam,"Yes, implemented exam",cs_exam1,cs_exam1.jpg
-cs_exam,"No, did not implement exam",cs_exam2,cs_exam2.jpg
-gov_purchases,"Yes, did mandate online purchases",gov_purchases1,gov_purchases1.jpg
-gov_purchases,"No, did not mandate online purchases",gov_purchases2,gov_purchases2.jpg
+﻿attribute,attribute_label,level,level_numerical,image
+arrested_low,Arrested many corrupt low-level officials?,"Yes, arrested many",arrested_low1,arrested_low1.jpg
+arrested_low,Arrested many corrupt low-level officials?,"No, did not arrest many",arrested_low2,arrested_low2.jpg
+arrested_high,Arrested many corrupt high-level officials?,"Yes, arrested many",arrested_high1,arrested_high1.jpg
+arrested_high,Arrested many corrupt high-level officials?,"No, did not arrest many",arrested_high2,arrested_high2.jpg
+arrested_bus,Arrested many corrupt business executives?,"Yes, arrested many",arrested_bus1,arrested_bus1.jpg
+arrested_bus,Arrested many corrupt business executives?,"No, did not arrest many",arrested_bus2,arrested_bus2.jpg
+raise,Raised civil service salaries to increase honesty?,"Yes, raised salaries",raise1,raise1.jpg
+raise,Raised civil service salaries to increase honesty?,"No, did not raise salaries",raise2,raise2.jpg
+audits,Audited local governments for potential corruption? ,"Yes, audited",audits1,audits1.jpg
+audits,Audited local governments for potential corruption? ,"No, did not audit",audits2,audits2.jpg
+trainings,Introduced anti-corruption trainings in schools and universities? ,"Yes, did trainings",trainings1,trainings1.jpg
+trainings,Introduced anti-corruption trainings in schools and universities? ,"No, did not do trainings",trainings2,trainings2.jpg
+protections_report,Improved legal protections for citizens who report corruption?,"Yes, improved protections",protections_report1,protections_report1.jpg
+protections_report,Improved legal protections for citizens who report corruption?,"No, did not improve protections",protections_report2,protections_report2.jpg
+mandatory_report,Enforced mandatory reporting of public officials’ income and wealth,"Yes, enforced reporting",mandatory_report1,mandatory_report1.jpg
+mandatory_report,Enforced mandatory reporting of public officials’ income and wealth,"No, did not enforce reporting",mandatory_report2,mandatory_report2.jpg
+cs_exam,Implemented civil service exam to ensure hiring of public officials based on merit?,"Yes, implemented exam",cs_exam1,cs_exam1.jpg
+cs_exam,Implemented civil service exam to ensure hiring of public officials based on merit?,"No, did not implement exam",cs_exam2,cs_exam2.jpg
+gov_purchases,Required government purchases be made via online platform with publicly visible transactions?,"Yes, did mandate online purchases",gov_purchases1,gov_purchases1.jpg
+gov_purchases,Required government purchases be made via online platform with publicly visible transactions?,"No, did not mandate online purchases",gov_purchases2,gov_purchases2.jpg
