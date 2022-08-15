@@ -7,15 +7,15 @@ arrested_bus,Arrested many corrupt business executives?,"Yes, arrested many",arr
 arrested_bus,Arrested many corrupt business executives?,"No, did not arrest many",arrested_bus2,arrested_bus2.jpg
 raise,Raised civil service salaries to increase honesty?,"Yes, raised salaries",raise1,raise1.jpg
 raise,Raised civil service salaries to increase honesty?,"No, did not raise salaries",raise2,raise2.jpg
-audits,Audited local governments for potential corruption? ,"Yes, audited",audits1,audits1.jpg
-audits,Audited local governments for potential corruption? ,"No, did not audit",audits2,audits2.jpg
-trainings,Introduced anti-corruption trainings in schools and universities? ,"Yes, did trainings",trainings1,trainings1.jpg
-trainings,Introduced anti-corruption trainings in schools and universities? ,"No, did not do trainings",trainings2,trainings2.jpg
+audits,Audited local governments for potential corruption?,"Yes, audited",audits1,audits1.jpg
+audits,Audited local governments for potential corruption?,"No, did not audit",audits2,audits2.jpg
+trainings,Introduced anti-corruption trainings in schools and universities?,"Yes, did trainings",trainings1,trainings1.jpg
+trainings,Introduced anti-corruption trainings in schools and universities?,"No, did not do trainings",trainings2,trainings2.jpg
 protections_report,Improved legal protections for citizens who report corruption?,"Yes, improved protections",protections_report1,protections_report1.jpg
 protections_report,Improved legal protections for citizens who report corruption?,"No, did not improve protections",protections_report2,protections_report2.jpg
 mandatory_report,Enforced mandatory reporting of public officials’ income and wealth?,"Yes, enforced reporting",mandatory_report1,mandatory_report1.jpg
 mandatory_report,Enforced mandatory reporting of public officials’ income and wealth?,"No, did not enforce reporting",mandatory_report2,mandatory_report2.jpg
 cs_exam,Implemented civil service exam to ensure hiring of public officials based on merit?,"Yes, implemented exam",cs_exam1,cs_exam1.jpg
 cs_exam,Implemented civil service exam to ensure hiring of public officials based on merit?,"No, did not implement exam",cs_exam2,cs_exam2.jpg
-gov_purchases,"Created transparent, publically accessible online platform for government purchases?","Yes, did mandate online purchases",gov_purchases1,gov_purchases1.jpg
-gov_purchases,"Created transparent, publically accessible online platform for government purchases?","No, did not mandate online purchases",gov_purchases2,gov_purchases2.jpg
+gov_purchases,Created transparent and publically accessible online platform for government purchases?,"Yes, did mandate online purchases",gov_purchases1,gov_purchases1.jpg
+gov_purchases,Created transparent and publically accessible online platform for government purchases?,"No, did not mandate online purchases",gov_purchases2,gov_purchases2.jpg
