@@ -1,9 +1,9 @@
 ﻿attribute,attribute_label,level,level_numerical,image
-type,Type of corruption:,Official takes bribes,type1,corruption.jpg
-type,Type of corruption:,Official takes kickbacks ,type2,corruption.jpg
-type,Type of corruption:,Official steals public resources,type3,corruption.jpg
-type,Type of corruption:,Official gives corrupt favors to family members,type4,corruption.jpg
-type,Type of corruption:,Official uses public resources to benefit own firm ,type5,corruption.jpg
+type,Type of corruption:,Official takes bribes,type1,corruption1.jpg
+type,Type of corruption:,Official takes kickbacks ,type2,corruption2.jpg
+type,Type of corruption:,Official steals public resources,type3,corruption3.jpg
+type,Type of corruption:,Official gives corrupt favors to family members,type4,corruption4.jpg
+type,Type of corruption:,Official uses public resources to benefit own firm ,type5,corruption5.jpg
 sector,Sector in which official works:,Healthcare,sector1,sector1.jpg
 sector,Sector in which official works:,Education,sector2,sector2.jpg
 sector,Sector in which official works:,Law enforcement,sector3,sector3.jpg
