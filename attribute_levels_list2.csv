@@ -17,5 +17,5 @@ mandatory_report,Enforced mandatory reporting of public officials’ income and 
 mandatory_report,Enforced mandatory reporting of public officials’ income and wealth,"No, did not enforce reporting",mandatory_report2,mandatory_report2.jpg
 cs_exam,Implemented civil service exam to ensure hiring of public officials based on merit?,"Yes, implemented exam",cs_exam1,cs_exam1.jpg
 cs_exam,Implemented civil service exam to ensure hiring of public officials based on merit?,"No, did not implement exam",cs_exam2,cs_exam2.jpg
-gov_purchases,Required government purchases be made via online platform with publicly visible transactions?,"Yes, did mandate online purchases",gov_purchases1,gov_purchases1.jpg
-gov_purchases,Required government purchases be made via online platform with publicly visible transactions?,"No, did not mandate online purchases",gov_purchases2,gov_purchases2.jpg
+gov_purchases,"Created transparent, publically accessible online platform for government purchases?","Yes, did mandate online purchases",gov_purchases1,gov_purchases1.jpg
+gov_purchases,"Created transparent, publically accessible online platform for government purchases?","No, did not mandate online purchases",gov_purchases2,gov_purchases2.jpg
